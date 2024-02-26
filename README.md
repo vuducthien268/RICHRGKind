@@ -1,0 +1,2 @@
+# RICHRGKind
+nice
